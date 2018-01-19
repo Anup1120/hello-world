@@ -2,3 +2,5 @@ my name is anup
 this is my frst program
 updated program
 fork command is used
+i added one line
+i added 2 line
